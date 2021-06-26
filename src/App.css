@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+}
+
+.App {
+  min-height: 100vh; 
+  min-width: 100vh;
+  background-color: #16161D; 
+  background-size : cover;
+  overflow-x:auto;
+  color:white;
+
+}
+
+
+.container{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+#title{
+  color: #E3D6B7;
+}
+
+#form-label{
+  color:#E3D6B7;
+}
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+.container{
+
+    display: flex;
+    flex-direction: column;
+    width:600px;
+    height:400px;
+}
+
+.form{
+    background-color: white;
+    padding:0px;
+    margin: theme-spacing(1);
+    width: '25ch';
+      
+}
