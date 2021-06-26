@@ -7,7 +7,7 @@ NOTE: Due to the limited number of API calls (5 / min) that can be made, request
 
 # UI
 
-![]('https://github.com/khanttp/StockCharts/blob/main/DEMO_Trim.mp4')
+![]('https://github.com/khanttp/StockCharts/blob/main/DEMO_Trim.gif')
 
 # DEMO
 
