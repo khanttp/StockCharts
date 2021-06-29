@@ -5,10 +5,10 @@ An Reactjs web app that uses the Alphavantage Time Series Stock APIs to display 
 NOTE: Due to the limited number of API calls (5 / min) that can be made, requests are stored in the local storage for 60 mins.
 
 
-# UI
+# The UI
 
-![]('https://github.com/khanttp/StockCharts/blob/main/DEMO_Trim.gif')
+<img src="https://github.com/khanttp/StockCharts/blob/main/UI_Trim.gif" width="1000" height="500"/>
 
 # DEMO
 
-![]('https://github.com/khanttp/StockCharts/blob/main/DEMO_Trim.mp4')
+<img src="https://github.com/khanttp/StockCharts/blob/main/DEMO_Trim.gif" width="1000" height="500"/>
